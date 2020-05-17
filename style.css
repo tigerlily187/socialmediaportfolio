@@ -51,7 +51,7 @@ table, th, td {
     padding: 30px;
     border: 0px solid white;
     text-align: center;
-    font-size: 25px;
+    font-size: 30px;
 }
 .about {
     font-size: 30px;
@@ -75,4 +75,12 @@ table, th, td {
 }
 .posts {
     padding: 30px;
+}
+.flex-container {
+    padding: 50px;
+    display: flex;
+    font-size: 25px;
+    height: 100px;
+    align-items: center;
+    justify-content: space-evenly;   
 }
