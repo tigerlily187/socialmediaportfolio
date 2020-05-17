@@ -48,11 +48,31 @@ a:active {
     text-decoration: none;
 }
 table, th, td {
-    padding: 20px;
+    padding: 30px;
     border: 0px solid white;
     text-align: center;
     font-size: 25px;
 }
 .about {
     font-size: 30px;
+}
+.picture {
+    float: right;
+}
+.container {
+    padding: 30px;
+    text-align: left;
+    position: relative;
+}
+.video {
+    padding: 30px;
+}
+.links {
+    padding: 30px;
+}
+.examples {
+    padding: 30px;
+}
+.posts {
+    padding: 30px;
 }
